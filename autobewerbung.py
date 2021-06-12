@@ -6,7 +6,7 @@ from subprocess import call
 
 
 ruta ='/home/jmoram/Documents/Bewerbung'
-lebenslauf = '/home/jmoram/Documents/Bewerbung/Lebenslauf_J.E.MoraMontes.docx' #Rutas Master de los arhivos
+lebenslauf = '/home/jmoram/Documents/Bewerbung/Lebenslauf_J.E.MoraMontes.docx' #Path of CV File
 Anschreiben = '/home/jmoram/Documents/Bewerbung/Anschreiben_J.E.MoraMontes.docx'
 Zeugnisse = '/home/jmoram/Documents/Bewerbung/Zeugnisses.pdf'
 Azubi_Anschreiben = '/home/jmoram/Documents/Bewerbung/Anschreiben_azubi.docx'
