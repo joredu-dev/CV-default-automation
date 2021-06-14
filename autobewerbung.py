@@ -1,6 +1,6 @@
-''' Este programa pretende automatizar el proceso de organizar las solicitudes de empleo
+''' Este programa automatiza el proceso de organizar las solicitudes de empleo o formacion profesional
     por empresas '''
-
+''' This Program  automates the organization process to application job or educations professional '''
 import os, shutil
 from subprocess import call
 
